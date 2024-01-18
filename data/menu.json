@@ -1,0 +1,131 @@
+{
+    "menu": [
+        {
+            "id": "1",
+            "name": "Pasta",
+            "description": "Pasta, a timeless comfort, brings joy with its al dente perfection and diverse sauces.From traditional spaghetti to gourmet creations, its a culinary embrace for every taste.",
+            "menuItems": [
+                {
+                    "id": "pasta_1",
+                    "name": "spaghetti bolognese",
+                    "price": "20",
+                    "Ingredients": "With Chianti-braised meat sauce and fresh basil.",
+                    "img": "/src/assets/PastaMenuImgs/pasta_img1.jpg"
+                },
+                {
+                    "id": "pasta_2",
+                    "name": "caprese pasta",
+                    "price": "18",
+                    "Ingredients": "Roma tomatoes, fresh basil, Sicilian extra-virgin olive oil, pine nuts, and fresh mozzarella.",
+                    "img": "/src/assets/PastaMenuImgs/pasta_img2.jpg"
+                },
+                {
+                    "id": "pasta_3",
+                    "name": "fettuccine alfredo",
+                    "price": "24",
+                    "Ingredients": "Freshly prepared fettuccine pasta swirled in homemade cream sauce.",
+                    "img": "/src/assets/PastaMenuImgs/pasta_img3.jpg"
+                },
+                {
+                    "id": "pasta_4",
+                    "name": "truffle tortelloni",
+                    "price": "28",
+                    "Ingredients": "Cheese tortelloni with truffle mushroom sauce, topped with fresh arugula.",
+                    "img": "/src/assets/PastaMenuImgs/pasta_img4.jpg"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Pizza",
+            "description": "Pizza, a culinary classic, enchants palates with its crispy crust and delightful medley of toppings, offering a timeless and universally beloved dining experience.",
+            "menuItems": [
+                {
+                    "id": "pizza_1",
+                    "name": "paesano",
+                    "price": "30",
+                    "Ingredients": "Pepperoni, sliced sausage, roasted peppers, red onions, Romano cheese,  olive oil, fresh garlic.",
+                    "img": "/src/assets/PizzaMenuImgs/pizza_img1.jpg"
+                },
+                {
+                    "id": "pizza_2",
+                    "name": "tuscan vegan",
+                    "price": "32",
+                    "Ingredients": "No Cheese. Marinara sauce,  mushrooms, black olives, eggplant,peppers,  red onions.",
+                    "img": "/src/assets/PizzaMenuImgs/pizza_img2.jpg"
+                },
+                {
+                    "id": "pizza_3",
+                    "name": "spicy fennel",
+                    "price": "34",
+                    "Ingredients": "Roasted red peppers, garlic sauce, carmelized onions, goat cheese, Wisconsin mozzarella.",
+                    "img": "/src/assets/PizzaMenuImgs/pizza_img3.jpg"
+                },
+                {
+                    "id": "pizza_4",
+                    "name": "shrimp alfredo",
+                    "price": "36",
+                    "Ingredients": "Pancetta, shrimp, red onions, Alfredo sauce, mozzarella, and fresh arugula.",
+                    "img": "/src/assets/PizzaMenuImgs/pizza_img4.jpg"
+                },
+                {
+                    "id": "pizza_5",
+                    "name": "italian market",
+                    "price": "38",
+                    "Ingredients": "Ricotta cheese, pepperoni, red onions, Wisconsin mozzarella, and pizza sauce.",
+                    "img": "/src/assets/PizzaMenuImgs/pizza_img5.jpg"
+                },
+                {
+                    "id": "pizza_6",
+                    "name": "bufalina pizza",
+                    "price": "40",
+                    "Ingredients": "Truffle olive oil sauce, Wisconsin mozzarella, fresh arugula, and fresh mozzarella.",
+                    "img": "/src/assets/PizzaMenuImgs/pizza_img6.jpg"
+                } 
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Dessert",
+            "description": "Desserts, sweet symphonies on the palate, bring bliss with each decadent bite, transforming any meal into a delightful finale.Here we have different types of desserts.",
+            "menuItems": [
+                {
+                    "id": "dessert_1",
+                    "name": "italian cannoli",
+                    "price": "12",
+                    "Ingredients": "An Italian handcrafted pastry shell filled with fresh ricotta cheese and chocolate.",
+                    "img": "/src/assets/DessertMenuImgs/dessert_img1.jpg"
+                },
+                {
+                    "id": "dessert_2",
+                    "name": "truffle chocolate",
+                    "price": "14",
+                    "Ingredients": "Crafted with layers of dark, moist chocolate and a silky truffle chocolate filling.",
+                    "img": "/src/assets/DessertMenuImgs/dessert_img2.jpg"
+                },
+                {
+                    "id": "dessert_3",
+                    "name": "carrot cake",
+                    "price": "16",
+                    "Ingredients": "Studded with raisins, walnuts, and pineapple, finished with a smooth cream cheese icing.",
+                    "img": "/src/assets/DessertMenuImgs/dessert_img3.jpg"
+                },
+                {
+                    "id": "dessert_4",
+                    "name": "Tiramisu",
+                    "price": "18",
+                    "Ingredients": "Homemade with ladyfingers soaked in espresso, layered with fresh mascarpone cheese.",
+                    "img": "/src/assets/DessertMenuImgs/dessert_img4.jpg"
+                },
+                {
+                    "id": "dessert_5",
+                    "name": "italian cream cake",
+                    "price": "20",
+                    "Ingredients": "Sweet cream cake with coconut, pecans, and cream cheese frosting.",
+                    "img": "/src/assets/DessertMenuImgs/dessert_img5.jpg"
+                }
+               
+            ]
+        }
+    ]
+}
